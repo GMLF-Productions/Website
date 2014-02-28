@@ -1,4 +1,5 @@
 Official GMLF Productions Website
 =======
 
-Probably going to deploy with Heroku for now.
+Deployed with heroku. Temporary site is
+[here](https://immense-bayou-1439.herokuapp.com). 
