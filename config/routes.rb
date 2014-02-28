@@ -1,7 +1,5 @@
 Gmlf::Application.routes.draw do
-  root to: 'static_pages#home'
-  # EXAMPLES
-  # match '/monti', to: 'static_pages#monti', via: 'get'
+  match '/', to: 'static_pages#home', via: 'get'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

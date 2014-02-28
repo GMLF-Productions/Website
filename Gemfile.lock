@@ -103,6 +103,8 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
+    turbolinks (2.2.1)
+      coffee-rails
     tzinfo (0.3.38)
     uglifier (2.4.0)
       execjs (>= 0.3.0)
@@ -115,11 +117,12 @@ PLATFORMS
 DEPENDENCIES
   bootstrap-sass
   bootstrap-will_paginate
-  coffee-rails (~> 3.2.1)
+  coffee-rails
   jquery-rails
   pg
   rails (= 3.2.11)
-  rails_12factor (= 0.0.2)
-  sass-rails (~> 3.2.3)
+  rails_12factor
+  sass-rails
+  turbolinks
   uglifier (>= 1.0.3)
   will_paginate
