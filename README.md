@@ -1,5 +1,7 @@
 Official GMLF Productions Website
 =======
 
-Deployed with heroku. Temporary site is
-[here](https://immense-bayou-1439.herokuapp.com). 
+Please try to put everything in the corresponding folders. If I see JavaScript in /css I will find you, and I will kill you.
+
+Trying to use Heroku but it's being a pain in the face right now. Temporary site is
+[here](http://nickmonti.us/GMLF-Productions/index.html). 
